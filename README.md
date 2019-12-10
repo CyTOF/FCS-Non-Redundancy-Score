@@ -1,6 +1,6 @@
 # FCS-Non-Redundancy-Score
 Plots the NRS (non-redundancy score) of selected markers from one or more FCS files.
-<>br<br>
+<br><br>
 This is useful to get a quick summary of which markers are contributing most to the variations in the sample(s) to potentially guide the focus of downstream analysis.
 
 ### Description
